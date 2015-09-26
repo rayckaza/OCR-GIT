@@ -1,0 +1,19 @@
+body
+{
+}
+
+h1, h2
+{
+text-align: center;
+}
+
+h2
+{
+    color: #555555;
+}
+
+#contenu
+{
+    width: 85%;
+	margin:auto;
+}
